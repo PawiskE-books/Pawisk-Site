@@ -48,7 +48,7 @@ text-align: center;
 img:hover{
 
     transform: scale(1.1);
-    box-shadow:  1px 1px 50px rgb(255, 255, 255);
+    box-shadow:  1px 1px 50px rgb(230, 215, 215);
     transition: 1s;
 }
 
